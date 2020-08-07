@@ -5,7 +5,7 @@
 </div>
 
 ## Introdução
-App feito na semana Next level week, um evento da [rocketseat](https://rocketseat.com.br/) para melhor as abilidades de programação.
+App feito na semana Next level week, um evento da [rocketseat](https://rocketseat.com.br/) para melhor as habilidades de programação.
 
 O ecoleta é um app mobile para localizar pontos de coleta de lixos reciclaveis, você cadastra os pontos pela versão web e pode consultar esses pontos pela versão mobile.
 
